@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://github.com/ashkheid/ffc-boilerplate-npm"
 	},
-  "author": "Ashkan Heidary"
+	"author": "Ashkan Heidary",
+  "description": "A project on Replit about package.json"
 }
